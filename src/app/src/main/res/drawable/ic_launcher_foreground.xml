@@ -1,0 +1,61 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- LP Grundscheibe + Loch -->
+    <path
+        android:fillColor="#458588"
+        android:fillType="evenOdd"
+        android:pathData="
+            M54,6
+            A48,48 0 1,1 53.9,6
+            Z
+
+            M54,43
+            A11,11 0 1,0 54,65
+            A11,11 0 1,0 54,43
+            Z" />
+
+    <!-- Label -->
+    <path
+        android:fillColor="#fabd2f"
+        android:pathData="
+            M54,36
+            A18,18 0 1,0 54,72
+            A18,18 0 1,0 54,36
+            Z" />
+
+    <!-- Unregelmäßige Rillen -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#83a598"
+        android:strokeWidth="0.8"
+        android:pathData="M54,15 A39,39 0 1,1 53.9,15" />
+
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#83a598"
+        android:strokeWidth="0.6"
+        android:pathData="M54,21 A33,33 0 1,1 53.9,21" />
+
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#83a598"
+        android:strokeWidth="0.7"
+        android:pathData="M54,26 A28,28 0 1,1 53.9,26" />
+
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#83a598"
+        android:strokeWidth="0.5"
+        android:pathData="M54,31 A23,23 0 1,1 53.9,31" />
+
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#83a598"
+        android:strokeWidth="0.6"
+        android:pathData="M54,35 A19,19 0 1,1 53.9,35" />
+
+</vector>

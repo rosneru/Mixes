@@ -19,5 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "MixExplorer"
+rootProject.name = "Mixes"
 include(":app")

@@ -85,7 +85,7 @@ fun SettingsScreen(
                 value = url,
                 onValueChange = viewModel::onUrlChanged,
                 modifier = Modifier.fillMaxWidth(),
-                label = { Text("Quotation file download URL") },
+                label = { Text("Mixes file download URL") },
                 singleLine = true
             )
 

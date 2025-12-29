@@ -7,10 +7,12 @@ simple text file in cloud, and this app presents the contents prettier.
 It has a settings screen that allows to enter the enter the share link of the 
 file and download it.
 
-**A screenshot of the app with one mix opened:**
+## Screenshot of the app with one mix opened
+
 ![Screenshot](doc/screenshots/Mixes.png)
 
-**A screenshot of the app when searching:**
+## Screenshot of the app when searching
+
 ![Screenshot](doc/screenshots/Mixes.search.png)
 
 ## URL of the mixes file
